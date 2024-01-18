@@ -41,11 +41,11 @@ python3 main.py
 
 ### Features
 
-   - Task Management: Add, complete, and delete tasks.
-   - Tagging: Optionally add tags to categorize tasks.
+   - **Task Management:** Add, complete, and delete tasks.
+   - **Tagging:** Optionally add tags to categorize tasks.
 
 ### Built With
 
-   - Flask - Web framework for Python.
-   - SQLAlchemy - SQL toolkit and Object-Relational Mapping (ORM) library for Python.
+   - **Flask:** - Web framework for Python.
+   - **SQLAlchemy:** SQL toolkit and Object-Relational Mapping (ORM) library for Python.
 
